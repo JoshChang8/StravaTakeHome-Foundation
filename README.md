@@ -1,5 +1,20 @@
 # Strava Logging Analysis Tool 👟
 This Python script analyzes Strava’s logging data by evaluating storage sizes, shard counts, and shard balance ratios. It supports both local JSON files and API endpoints.
+<p align="center">
+  <img src="photos/strava_art.png" alt="Strava Internship Run" width="400"/>
+</p>
+
+<p align="center">
+  <img src="photos/yosemite.png" alt="Yosemite National Park" width="250"/>
+  <img src="photos/squamish.png" alt="Squamish, BC" width="250"/>
+  <img src="photos/banff.png" alt="Banff, Alberta" width="250"/>
+</p>
+
+<p align="center">
+  <strong>📍 Yosemite National Park</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>📍 Squamish, BC</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>📍 Banff, Alberta</strong>
+</p>
 
 ## Analysis Overview 📊 
 1. Top 5 Largest Indexes by Size 
