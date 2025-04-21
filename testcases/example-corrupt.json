@@ -1,0 +1,13 @@
+[
+    {
+      "index": "broken",
+      "pri.store.size": "1234567890",
+      "pri": "2"
+    ,
+    {
+      "index": "incomplete",
+      "pri.store.size": "9876543210",
+      "pri": "3"
+    }
+  ]
+  
